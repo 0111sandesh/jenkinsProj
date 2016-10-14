@@ -8,6 +8,6 @@ public class helloworld {
         else if(x == 2)
             return "Two";
         else
-            return "Random";
+            return "Other";
     }
 }

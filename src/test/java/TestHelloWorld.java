@@ -27,7 +27,7 @@ public class TestHelloWorld {
     public void test3(){
         String str3 = hello.printNumber(3);
         System.out.println(str3);
-        assert(str3.equals("Random"));
+        assert(str3.equals("Other"));
     }
 
     @After
