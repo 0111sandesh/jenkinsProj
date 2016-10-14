@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c17194f-8664-4d0f-91b9-07c1350297e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/helloworld.java" afterPath="$PROJECT_DIR$/src/main/java/helloworld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestHelloWorld.java" afterPath="$PROJECT_DIR$/src/test/java/TestHelloWorld.java" />
     </list>
     <ignored path="proj1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helloworld.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="helloworld.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/helloworld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -54,17 +54,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestHelloWorld.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestHelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestHelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="390">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,9 +97,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/TestHelloWorld.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/helloworld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestHelloWorld.java" />
       </list>
     </option>
   </component>
@@ -619,20 +619,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestHelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Proj1.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -654,6 +640,20 @@
         <state relative-caret-position="210">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestHelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
