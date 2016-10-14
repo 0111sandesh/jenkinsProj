@@ -15,6 +15,6 @@ public class helloworld {
         else if(x == 2)
             return "Two";
         else
-            return "Other";
+            return "Random";
     }
 }
