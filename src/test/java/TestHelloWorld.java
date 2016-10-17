@@ -2,6 +2,7 @@ import org.junit.Test;
 import org.junit.Before;
 import org.junit.After;
 
+// Simple test
 public class TestHelloWorld {
     private helloworld hello;
     @Before
